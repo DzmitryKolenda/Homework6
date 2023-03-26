@@ -9,7 +9,7 @@ input[type=text] {
 }
 
 /* 3 */
-* {
+a:visited {
   color: lightgrey;
 }
 
