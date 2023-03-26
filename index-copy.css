@@ -56,7 +56,7 @@ input[type=checkbox]:checked {
 }
 
 /* 8 */
-.parent1 {
+.parent1 .child1, .inner1{
   border: 3px solid darkorchid;
 }
 
