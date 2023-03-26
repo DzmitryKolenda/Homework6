@@ -61,7 +61,7 @@ input[type=checkbox]:checked {
 }
 
 /* 9 */
-.title {
+.title + p {
   color: forestgreen;
 }
 
