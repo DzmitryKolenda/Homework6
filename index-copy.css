@@ -4,7 +4,7 @@ h1:hover {
 }
 
 /* 2 */
-* {
+input[type=text] {
   border: 1px solid yellowgreen;
 }
 
