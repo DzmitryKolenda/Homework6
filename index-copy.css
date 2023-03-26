@@ -66,6 +66,6 @@ input[type=checkbox]:checked {
 }
 
 /* 10 */
-.title1 {
+.title1 ~ p{
   color: fuchsia;
 }
